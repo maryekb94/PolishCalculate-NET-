@@ -1,4 +1,0 @@
-G:\PolishCalculateCool\PolishCalculateCool\bin\Release\PolishCalculateCool.dll
-G:\PolishCalculateCool\PolishCalculateCool\bin\Release\PolishCalculateCool.pdb
-G:\PolishCalculateCool\PolishCalculateCool\obj\Release\PolishCalculateCool.dll
-G:\PolishCalculateCool\PolishCalculateCool\obj\Release\PolishCalculateCool.pdb
